@@ -1,7 +1,7 @@
 #include "Watchy_7_SEG.h"
 
-#define DARKMODE true
-
+#define DARKMODE false
+#define TEMP_UNIT "imperial"
 const uint8_t BATTERY_SEGMENT_WIDTH = 7;
 const uint8_t BATTERY_SEGMENT_HEIGHT = 11;
 const uint8_t BATTERY_SEGMENT_SPACING = 9;
